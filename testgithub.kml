@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Hi1</name>
+      <Point>
+        <coordinates>25.092006,-164.571157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hi2</name>
+      <Point>
+        <coordinates>25.181812,-151.545913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hi3</name>
+      <Point>
+        <coordinates>16.479356,-151.779281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hi4</name>
+      <Point>
+        <coordinates>15.612386,-164.699876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI is here 2</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.092006,-164.571157,0
+            25.181812,-151.545913,0
+            16.479356,-151.779281,0
+            15.612386,-164.699876,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
